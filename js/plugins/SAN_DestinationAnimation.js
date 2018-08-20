@@ -1,5 +1,5 @@
 //=============================================================================
-// SAN_TouchAnimation.js
+// SAN_DestinationAnimation.js
 //=============================================================================
 // Copyright (c) 2018 Sanshiro
 // Released under the MIT license
@@ -10,7 +10,7 @@
 //=============================================================================
 
 /*:
- * @plugindesc 目標地点アニメーション 1.0.0
+ * @plugindesc 目標地点アニメーション 1.0.1
  * マップ上の目標地点にアニメーションを表示します。
  * @author Sanshiro https://github.com/rev2nym
  * 
@@ -103,7 +103,7 @@ Imported.SAN_DestinationAnimation = true;
 
 var Sanshiro = Sanshiro || {};
 Sanshiro.DestinationAnimation = Sanshiro.DestinationAnimation || {};
-Sanshiro.DestinationAnimation.version = '1.0.0';
+Sanshiro.DestinationAnimation.version = '1.0.1';
 
 (function(root) {
 'use strict';
